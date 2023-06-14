@@ -204,13 +204,95 @@
                     'mortalidade_infantil' => 21.3,
                     'expectativa_vida' => 70.6 . 'anos' 
                 ),
-                
 
+                 'Mato_grosso' => array(
+                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg" alt="Bandeira do Mato Grosso">',
+                        'unidade_federativa' => 'Mato Grosso',
+                        'abreviacao' => 'MT',
+                        'sede_governo' => 'Cuiabá',
+                        'area' => number_format(903357.9, 1, ',', '.'),
+                        'populacao' => 3236578,
+                        'densidade' => 3.10,
+                        'pib' => 107418000,
+                        'total' => 1.8,
+                        'pib_per_capita' => 32894.96,
+                        'idh' => 0.725,
+                        'alfabetizacao' =>93.5,
+                        'mortalidade_infantil' => 16.9,
+                        'expectativa_vida' => 74.2 . 'anos'
+                    ),
+
+                    'Mato_grosso_do_sul' => array(
+                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg" alt="Bandeira do Mato Grosso do Sul">',
+                        'unidade_federativa' => 'Mato Grosso do Sul',
+                        'abreviacao' => 'MS',
+                        'sede_governo' => 'Campo Grande',
+                        'area' => number_format(357125.0, 1, ',', '.'),
+                        'populacao' => 2630098,
+                        'densidade' => 6.34,
+                        'pib' => 83082000,
+                        'total' => 1.4,
+                        'pib_per_capita' => 31337.22,
+                        'idh' => 0.729,
+                        'alfabetizacao' => 93.7,
+                        'mortalidade_infantil' => 14.0,
+                        'expectativa_vida' => 75.5. 'anos'
+                    ),
+                    'Minas_gerais' => array(
+                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" alt="Bandeira de Minas Gerais">',
+                        'unidade_federativa' => 'Minas Gerais',
+                        'abreviacao' => 'MG',
+                        'sede_governo' => 'Belo Horizonte',
+                        'area' => number_format(586528.3, 1, ',', '.'),
+                        'populacao' => 20777672,
+                        'densidade' => 32.79,
+                        'pib' => 519326000,
+                        'total' => 8.7,
+                        'pib_per_capita' => 24884.94,
+                        'idh' => 0.731,
+                        'alfabetizacao' => 93.8,
+                        'mortalidade_infantil' => 10.9,
+                        'expectativa_vida' => 77.2 . 'anos'
+                    ),
+                    'Para' => array(
+                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_do_Par%C3%A1.svg" alt="Bandeira do Pará">',
+                        'unidade_federativa' => 'Pará',
+                        'abreviacao' => 'PA',
+                        'sede_governo' => 'Belém',
+                        'area' => number_format(1247689.5, 1, ',', '.'),
+                        'populacao' => 8101180,
+                        'densidade' => 5.58,
+                        'pib' => 130883000,
+                        'total' => 2.2,
+                        'pib_per_capita' => 16009.98,
+                        'idh' => 0.646,
+                        'alfabetizacao' => 90.7,
+                        'mortalidade_infantil' => 16.6,
+                        'expectativa_vida' => 72.1 . 'anos'
+                    ),
+                    'Paraiba' => array(
+                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg" alt="Bandeira da Paraíba">',
+                        'unidade_federativa' => 'Paraíba',
+                        'abreviacao' => 'PB',
+                        'sede_governo' => 'João Pessoa',
+                        'area' => number_format(56439.8, 1, ',', '.'),
+                        'populacao' => 3950359,
+                        'densidade' => 63.71,
+                        'pib' => 56140000,
+                        'total' => 0.9,
+                        'pib_per_capita' => 14133.32,
+                        'idh' => 0.658,
+                        'alfabetizacao' => 83.7,
+                        'mortalidade_infantil' => 16.1,
+                        'expectativa_vida' => 73.2 . 'anos'
+                    ),
                 
 
 
 
             );
+
+           
 
             foreach ($Estados_linhas as $dados => $valor)
             {
