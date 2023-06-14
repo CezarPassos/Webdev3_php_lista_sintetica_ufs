@@ -118,6 +118,92 @@
                     'mortalidade_infantil' => 17.3,
                     'expectativa_vida' => 73.5 . 'anos' 
                 ),
+
+                 'Ceara' => array(
+                    'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg" alt="Bandeira do Ceara">',
+                    'unidade_federativa' => 'Ceará',
+                    'abreviacao' => 'CE',
+                    'sede_governo' => 'Fortaleza',
+                    'area' => number_format(148825.6, 1, ',', '.'),
+                    'populacao' => 8867448	 . '%',
+                    'densidade' => 54.40,
+                    'pib' => 130621000,
+                    'total' => 2.2,
+                    'pib_per_capita' => 14669.14,
+                    'idh' => 0.682,
+                    'alfabetizacao' => 84.8,
+                    'mortalidade_infantil' => 14.4,
+                    'expectativa_vida' => 73.8 . 'anos' 
+                ),
+
+                'Distrito_federal' => array(
+                    'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg" alt="Bandeira do Distrito Federal">',            
+                    'unidade_federativa' => 'Ceará',
+                    'unidade_federativa' => 'Distrito Federal',
+                    'abreviacao' => 'DF',
+                    'sede_governo' => 'Brasília',
+                    'area' => number_format(5822.1, 1, ',', '.'),
+                    'populacao' => 2867869	 . '%',
+                    'densidade' => 400.73,
+                    'pib' => 215613000,
+                    'total' => 3.6,
+                    'pib_per_capita' => 73971.05,
+                    'idh' => 0.824,
+                    'alfabetizacao' => 97.4,
+                    'mortalidade_infantil' => 10.5,
+                    'expectativa_vida' => 78.1 . 'anos' 
+                ),
+
+                'Espirito_santo' => array(
+                    'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg" alt="Bandeira do Espírito Santos">',              
+                    'unidade_federativa' => 'Espírito Santo',
+                    'abreviacao' => 'ES',
+                    'sede_governo' => 'Vitória',
+                    'area' => number_format(46077.5, 1, ',', '.'),
+                    'populacao' => 3894899	 . '%',
+                    'densidade' => 73.97,
+                    'pib' => 120363000,
+                    'total' => 2,
+                    'pib_per_capita' => 30627.45,
+                    'idh' => 0.740,
+                    'alfabetizacao' => 93.8,
+                    'mortalidade_infantil' => 8.8,
+                    'expectativa_vida' => 78.2 . 'anos' 
+                ),
+
+                'Goias' => array(
+                    'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Goi%C3%A1s.svg" alt="Bandeira de Goiás">',              
+                    'unidade_federativa' => 'Goiás',
+                    'abreviacao' => 'GO',
+                    'sede_governo' => 'Goiânia',
+                    'area' => number_format(340086.7, 1, ',', '.'),
+                    'populacao' => 6551322	 . '%',
+                    'densidade' => 16.52,
+                    'pib' => 173632000,
+                    'total' => 2.9,
+                    'pib_per_capita' => 26265.32,
+                    'idh' => 0.735,
+                    'alfabetizacao' => 93.5,
+                    'mortalidade_infantil' => 14.9,
+                    'expectativa_vida' => 74.2 . 'anos' 
+                ),
+
+                'Maranhao' => array(
+                    'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_do_Maranh%C3%A3o.svg" alt="Bandeira do Maranhão">',              
+                    'unidade_federativa' => 'Maranhão',
+                    'abreviacao' => 'MA',
+                    'sede_governo' => 'São Luís',
+                    'area' => number_format(331983.3, 1, ',', '.'),
+                    'populacao' => 6861924	 . '%',
+                    'densidade' => 18.38,
+                    'pib' => 78475000,
+                    'total' => 1.3,
+                    'pib_per_capita' => 11366.23,
+                    'idh' => 0.639,
+                    'alfabetizacao' => 83.3,
+                    'mortalidade_infantil' => 21.3,
+                    'expectativa_vida' => 70.6 . 'anos' 
+                ),
                 
 
                 
